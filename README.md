@@ -1,7 +1,7 @@
 # **CSEL302- Introduction to Intelligent Systems**
 ___
 ## **Introduction**
--Welcome to my CSEL302 Webpage! CSEL302 is the Introduction to Intelligent Agents course I'm currently taking under Mr. Mark Bernardino. Below is a compilation of all assigned activities, and bits of info relating most notably to Linear and Logistic Regression, two techniques used in predictive modelling that allows us to have valuable insights into datasets.
+- Welcome to my CSEL302 Webpage! CSEL302 is the Introduction to Intelligent Agents course I'm currently taking under Mr. Mark Bernardino. Below is a compilation of all assigned activities, and bits of info relating most notably to Linear and Logistic Regression, two techniques used in predictive modelling that allows us to have valuable insights into datasets.
 ___
 ## **Table of Contents**
 
@@ -16,9 +16,9 @@ ___
 * [Conclusion](#conclusion)
 ___
 ## **Introduction to AI and Intelligent Agents**
--AI refers to the intelligence demonstrated by machines, as opposed to the natural intelligence possessed by humans and animals.
+- AI refers to the intelligence demonstrated by machines, as opposed to the natural intelligence possessed by humans and animals.
 
--It encompasses a wide range of techniques and technologies that enable machines to perceive, learn, reason, solve problems, and act autonomously.
+- It encompasses a wide range of techniques and technologies that enable machines to perceive, learn, reason, solve problems, and act autonomously.
 ___
 ## **Data Analysis and Visualization**
 ### Data Processing
@@ -43,7 +43,7 @@ ___
 ___
 ## **Probability and Statistics**
 ### Probability
--Probability implies 'likelihood' or 'chance'. When an event is certain to happen then the probability of occurrence of that event is 1 and when it is certain that the event cannot happen then the probability of that event is 0.
+- Probability implies 'likelihood' or 'chance'. When an event is certain to happen then the probability of occurrence of that event is 1 and when it is certain that the event cannot happen then the probability of that event is 0.
 
 ### Probability Distributions
 - A probability distribution describes the likelihood of each possible outcome for a random variable. It tells us how probable each value is and provides a complete picture of the random variable's behavior.
@@ -87,13 +87,13 @@ ___
 ## **Logistic Regression**
 - Logistic Regression is a statistical technique used for predicting the outcome of a categorical dependent variable based on one or more predictor variables. It models the probability of a binary event occurring, such as success/failure, yes/no, or pass/fail scenarios.
 
--Logistic Regression is based on the concept of odds and log-odds. The odds of an event is the ratio of the probability of the event to its complement. The logistic model uses these odds, transformed via the logarithm, to predict the probability of the target class.
+- Logistic Regression is based on the concept of odds and log-odds. The odds of an event is the ratio of the probability of the event to its complement. The logistic model uses these odds, transformed via the logarithm, to predict the probability of the target class.
 
--Logistic Regression's flexibility makes it applicable in many fields. In medicine, it predicts disease presence or absence. In finance, it assesses credit risk. In marketing, it helps predict customer churn. These examples underscore its versatility.
+- Logistic Regression's flexibility makes it applicable in many fields. In medicine, it predicts disease presence or absence. In finance, it assesses credit risk. In marketing, it helps predict customer churn. These examples underscore its versatility.
 
--Developing a Logistic Regression model involves several key steps: First, selecting relevant features. Second, using a training dataset to fit the model. Finally, interpreting the model coefficients to understand the influence of each predictor.
+- Developing a Logistic Regression model involves several key steps: First, selecting relevant features. Second, using a training dataset to fit the model. Finally, interpreting the model coefficients to understand the influence of each predictor.
 
--Evaluating the performance of a Logistic Regression model involves metrics such as Accuracy, Precision, Recall, and the F1 Score. The ROC Curve and AUC provide insights into the model's ability to distinguish between classes.
+- Evaluating the performance of a Logistic Regression model involves metrics such as Accuracy, Precision, Recall, and the F1 Score. The ROC Curve and AUC provide insights into the model's ability to distinguish between classes.
 
 - While powerful, Logistic Regression faces challenges like multicollinearity among predictors and the risk of overfitting. Techniques such as regularization and careful feature selection can mitigate these issues, enhancing model reliability.
 
