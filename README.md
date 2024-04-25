@@ -105,7 +105,7 @@ ___
 - <a href = "https://nbviewer.org/github/NickCore18/CSEL302/blob/main/2A_CORONADO_EXER7.ipynb">Exercise 7</a>
 
 ## Midterm Exam
-- <a href = "https://nbviewer.org/github/NickCore18/CSEL302/blob/main/2A_CORONADO_MIDTERM.ipynb">Exercise 7</a>
+- <a href = "https://nbviewer.org/github/NickCore18/CSEL302/blob/main/2A_CORONADO_MIDTERM.ipynb">Midterm Exam</a>
 
 ## Conclusion
 - Throughout my learning journey in data analysis and visualization, I have gained invaluable insights into predictive modeling. Linear regression has allowed me to understand relationships between variables and make informed predictions, while logistic regression has enabled me to predict outcomes based on categorical variables. The hands-on activities and midterm exam have been particularly helpful in reinforcing my learning and challenging me to apply these concepts in various scenarios. Overall, this journey has not only expanded my knowledge but also equipped me with the skills to confidently tackle complex data analysis tasks.
