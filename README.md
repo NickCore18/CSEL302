@@ -11,9 +11,9 @@ ___
 *   [Probability and Statistics ](#probability-and-statistics)
 *   [Linear Regression](#linear-regression)
 *   [Logistic Regression](#logistic-regression)
-- [Activities](#activities)
-- [Midterm Exam](#midterm-exam)
-- [Conclusion](#conclusion)
+* [Activities](#activities)
+* [Midterm Exam](#midterm-exam)
+* [Conclusion](#conclusion)
 ___
 ## **Introduction to AI and Intelligent Agents**
 >AI refers to the intelligence demonstrated by machines, as opposed to the natural intelligence possessed by humans and animals.
