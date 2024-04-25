@@ -64,15 +64,18 @@ ___
 - The dependent variable, also known as the "response variable" or "outcome variable," is the variable that you are trying to understand, predict, or explain in a statistical analysis or experiment. It's the variable that you measure or observe. Its value depends on the values of other variables in the study.
 - The independent variable, also known as the "explanatory variable" or "predictor variable," is the variable that you manipulate or examine to see how it affects the dependent variable.
 
+
 ### Types of Errors in Linear Regression
 - **Residuals:** The difference between the observed and predicted values.
 - **Mean Squared Error (MSE):** A measure of the average squared difference between observed and predicted values.
 - **Root Mean Squared Error (RMSE):** The square root of MSE, providing a more interpretable measure of error.
 
+
 ### Model Selection
 - **Adjusted R-Squared:** A measure of model goodness-of-fit that penalizes for adding unnecessary variables.
 - **AIC (Akaike Information Criterion):** A measure that takes into account both goodness of fit and the number of parameters.
 - **BIC (Bayesian Information Criterion):** Similar to AIC but places a higher penalty on model complexity.
+
 
 ### Regression Diagnostics
 - **Linearity:** You can use scatterplots or residual plots to check for linearity.
