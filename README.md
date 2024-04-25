@@ -104,7 +104,7 @@ ___
 - <a href = "https://nbviewer.org/github/NickCore18/CSEL302/blob/main/2A_CORONADO_EXER6.ipynb">Exercise 6</a>
 - <a href = "https://nbviewer.org/github/NickCore18/CSEL302/blob/main/2A_CORONADO_EXER7.ipynb">Exercise 7</a>
 
-## Midterm
+## Midterm Exam
 - <a href = "https://nbviewer.org/github/NickCore18/CSEL302/blob/main/2A_CORONADO_MIDTERM.ipynb">Exercise 7</a>
 
 ## Conclusion
